@@ -1,0 +1,70 @@
+name: Docs
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/dev' }}
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - dev
+
+permissions:
+  contents: read
+  packages: write
+  pages: write
+  id-token: write
+
+jobs:
+  Deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 3. Setup Python
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # 4. Generate Docs (inline MkDocs build)
+      - name: Generate Docs
+        run: |
+          set -ex
+          cd ./doc
+          python3 -m venv venv
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install mkdocs mkdocs-material mkdocs-redirects
+          mkdocs build --clean
+          deactivate
+
+      # 5. Upload documentation as artifact (optional)
+      - name: Upload documentation zip archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: moove-android-docs
+          path: doc/site
+
+      # 6. Configure GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      # 7. Upload artifact for GitHub Pages deployment
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './doc/site'
+
+      # 8. Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
