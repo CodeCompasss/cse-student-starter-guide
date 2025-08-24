@@ -46,7 +46,8 @@ jobs:
           pip install --upgrade pip
           pip install mkdocs mkdocs-material mkdocs-redirects \
                       mkdocs-minify-plugin mkdocs-awesome-pages-plugin \
-                      mkdocs-macros-plugin mkdocs-codeinclude-plugin
+                      mkdocs-macros-plugin mkdocs-codeinclude-plugin \
+                      mkdocs-seo-plugin mkdocs-sitemap-plugin
           mkdocs build --clean
           deactivate
 
