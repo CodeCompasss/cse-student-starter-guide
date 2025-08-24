@@ -1,0 +1,1 @@
+wha tis programming oangue whihc is the one best for begaiiner master oen move towarad otehr waht do you eman by fastery familar tih libray good wihte clean ocde oops all that stuff master that move toward tohers 

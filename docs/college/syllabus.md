@@ -1,6 +1,6 @@
-# Why the College Syllabus Isn’t Always Enough
 
-## Why College Syllabi Can Be Outdated
+
+## Why the College Syllabus Can Be Outdated
 
 * **Rigid Approval Process:** Most colleges follow a syllabus designed and approved by universities or education boards, which can take years to update.
 * **Lack of Autonomy:** Many colleges are **not autonomous**, meaning they must stick to the university’s prescribed syllabus without much flexibility.

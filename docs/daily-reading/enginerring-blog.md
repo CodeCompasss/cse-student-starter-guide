@@ -1,4 +1,3 @@
-# 📘 Engineering Blogs – Learn from the Real World
 
 ## 👋 What Are Engineering Blogs?
 

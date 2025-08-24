@@ -1,6 +1,4 @@
 
-# Android Development: What It Is and What You Need to Know
-
 ## What Is Android Development?
 
 Android development is the process of creating mobile applications that run on Android devices like smartphones, tablets, and even some smart TVs and watches. When you use apps like WhatsApp, Instagram, or Google Maps on your phone, those are all built by Android developers.

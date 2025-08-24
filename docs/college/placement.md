@@ -1,4 +1,3 @@
-# Understanding Placements for Computer Science Students
 
 ## What is Placement?
 

@@ -1,5 +1,4 @@
 
-# 🐧 Linux for CSE Students — The Real, Unbiased Truth (2025)
 
 ## What Is Linux?
 

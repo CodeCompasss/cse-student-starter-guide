@@ -1,7 +1,4 @@
 
-
-# Why Seniors Matter in Your Engineering Journey
-
 ## Why you need  Seniors?
 
 if you’re a beginner. They have already gone through many of the challenges you will face, from coursework to internships and placements.

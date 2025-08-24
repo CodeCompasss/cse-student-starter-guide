@@ -1,0 +1,1 @@
+what is reusme what does resume should have why you should make it as soon as possible you you dont you eserniros and aks tell you to den you resume fast as there is lighitng opporuntiy what is the stuructre that work best as cse youtube video  link to ne 

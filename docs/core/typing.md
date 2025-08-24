@@ -1,0 +1,1 @@
+what is touch typoing what happen if hyous tuck typing with 2 fingers what sit he probdlm what is touch typing other ttype of methods whichs ithe fasted what do you need 

@@ -1,5 +1,4 @@
 
-# Web Development: What It Is and What You Need to Know
 
 ## What Is Web Development?
 

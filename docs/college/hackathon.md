@@ -1,0 +1,1 @@
+why you need to join hacakthos how hackathon help you what is the unturth no boayd how hackathon force yout oe build proejct tha normal take weeks with progrsstionaltion how hackathon isthe futeur of palcment how it gviem ppo offer all that how comaony secreately invimte for intetrview 

@@ -1,8 +1,8 @@
 
 
-## 👋 About This Project – CSE Starter Guide Kit
 
-Hi, my name is **Shadil**, and I’m the founder of **CodeCompass**.
+
+Hi, my name is **[Shadil A M](https://www.linkedin.com/in/shadilam/) **, and I’m the founder of **CodeCompass**.
 
 I started this project as a way to **give back** — not just to my juniors, but to anyone walking the same path I did. I'm not some “special guy,” topper, or big-shot — I’m just someone who knows how confusing and overwhelming the Computer Science journey can feel when you’re starting out.
 
@@ -62,6 +62,6 @@ Use it to grow.
 And remember — **you don’t have to be the best, you just have to start**.
 
 – **Shadil**,
-Founder, [CodeCompass](#)
+Founder, [CodeCompass](https://code-compass-website.vercel.app/)
 
 

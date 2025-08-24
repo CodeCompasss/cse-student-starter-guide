@@ -1,5 +1,4 @@
 
-# 🔗 LinkedIn: Your Secret Weapon  
 
 ## 🚨 If You’re Not on LinkedIn Now, You’re Invisible to the Tech World
 

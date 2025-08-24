@@ -1,6 +1,3 @@
-
-# Augmented Reality (AR) / Virtual Reality (VR) Development: What It Is and What You Need to Know
-
 ## What Is AR / VR Development?
 
 * **Augmented Reality (AR)** overlays digital content (images, information, animations) onto the real world using devices like smartphones, tablets, or AR glasses. Imagine Pokémon GO, where digital creatures appear in your real environment.

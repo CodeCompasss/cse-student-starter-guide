@@ -1,8 +1,4 @@
-Got it! Here’s a clear, beginner-friendly explanation for **UI/UX Design** that explains what it is, what designers do, and what you need to get started:
 
----
-
-# UI/UX Design: What It Is and What You Need to Know
 
 ## What Is UI/UX Design?
 
@@ -76,6 +72,4 @@ Together, UI/UX designers make sure a product is both beautiful and user-friendl
 * It offers **flexible career paths** — from startups to big tech companies.
 * Constant learning and evolving with new tools and trends.
 
----
 
-If you want, I can also help you with a learning path or project ideas to build your UI/UX skills!

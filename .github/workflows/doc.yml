@@ -39,20 +39,25 @@ jobs:
       - name: Generate Docs
         run: |
           set -ex
-          cd ./doc
           python3 -m venv venv
           source venv/bin/activate
           pip install --upgrade pip
-          pip install mkdocs mkdocs-material mkdocs-redirects
+          pip install mkdocs mkdocs-material mkdocs-redirects \
+                      mkdocs-minify-plugin mkdocs-awesome-pages-plugin \
+                      mkdocs-macros-plugin mkdocs-codeinclude-plugin
           mkdocs build --clean
           deactivate
 
-      # 5. Upload documentation as artifact (optional)
       - name: Upload documentation zip archive
         uses: actions/upload-artifact@v4
         with:
-          name: moove-android-docs
-          path: doc/site
+          name: site-artifact
+          path: site
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './site'
 
       # 6. Configure GitHub Pages
       - name: Setup Pages

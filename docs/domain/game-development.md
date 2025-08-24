@@ -1,6 +1,4 @@
 
-# Game Development: What It Is and What You Need to Know
-
 ## What Is Game Development?
 
 Game development is the process of designing, creating, and publishing video games for platforms like PCs, consoles, mobile devices, and the web. It’s a blend of art, storytelling, programming, and design that brings interactive digital worlds to life.
