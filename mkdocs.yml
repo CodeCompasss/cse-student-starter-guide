@@ -17,7 +17,6 @@ plugins:
   - awesome-pages
   - macros
   - codeinclude
-  - seo
   - sitemap
 
 extra:
