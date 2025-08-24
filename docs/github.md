@@ -1,0 +1,1 @@
+what is githbb why we need it what is github readme md why you need to fill it what yuo need showcase in yout gihtub readme to become one of ht ebest so that in future they all talendted by what is something all repo under you need that will be compounding effect what is the top 0.1% trick that will make you stand out in it 
