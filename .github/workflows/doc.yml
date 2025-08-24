@@ -30,6 +30,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+ 
+
       # 3. Setup Python
       - uses: actions/setup-python@v5
         with:
@@ -48,28 +50,17 @@ jobs:
           mkdocs build --clean
           deactivate
 
-      - name: Upload documentation zip archive
-        uses: actions/upload-artifact@v4
-        with:
-          name: site-artifact
-          path: site
+      # 4. Configure GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
 
+      # 5. Upload Pages Artifact
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: './site'
 
-      # 6. Configure GitHub Pages
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      # 7. Upload artifact for GitHub Pages deployment
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: './doc/site'
-
-      # 8. Deploy to GitHub Pages
+      # 6. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
