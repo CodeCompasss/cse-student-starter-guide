@@ -17,14 +17,4 @@ plugins:
   - awesome-pages
   - macros
   - codeinclude
-  - sitemap
 
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/shadil-rayyan
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/shadilrayyan/
-  analytics:
-    provider: google
-    property: G-XXXXXXXXXX
