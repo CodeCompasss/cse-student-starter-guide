@@ -1,0 +1,6 @@
+mkdocs-material
+mkdocs-minify-plugin
+mkdocs-awesome-pages-plugin
+mkdocs-macros-plugin
+mkdocs-codeinclude-plugin
+mkdocs-redirects

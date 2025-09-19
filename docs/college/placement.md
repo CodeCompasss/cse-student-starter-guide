@@ -1,5 +1,5 @@
 
-## What is Placement?
+##  Placement?
 
 Placement is the process where companies recruit graduating students for internships or full-time jobs. It’s a crucial step for many students to transition from academics to the professional world.
 

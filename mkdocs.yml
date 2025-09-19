@@ -2,12 +2,17 @@ site_name: CSE STARTER GUIDE KIT
 site_description: A curated guide and resources kit for CSE students to learn core concepts, tools, and domains.
 site_url: https://shadil-rayyan.github.io/cse-student-starter-guide/
 repo_url: https://github.com/shadil-rayyan/cse-student-starter-guide
+
 theme:
   name: material
   features:
     - navigation.instant
     - navigation.tracking
     - content.code.copy
+    - navigation.footer
+
+  logo: assets/logo.png
+  favicon: assets/logo.png
 
 plugins:
   - search
@@ -18,3 +23,12 @@ plugins:
   - macros
   - codeinclude
 
+copyright: Copyright &copy; 2025  SHADIL AM
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/shadil-am/
+    - icon: fontawesome/brands/github
+      link: https://github.com/shadil-rayyan
+  

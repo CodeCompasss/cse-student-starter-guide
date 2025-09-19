@@ -1,5 +1,4 @@
 
-
 ## Why the College Syllabus Can Be Outdated
 
 * **Rigid Approval Process:** Most colleges follow a syllabus designed and approved by universities or education boards, which can take years to update.

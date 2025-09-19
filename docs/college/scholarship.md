@@ -1,19 +1,9 @@
 
-## What is a Scholarship?
+## Scholarship?
 
 A **scholarship** is a financial award given to students to help cover their education expenses such as tuition fees, books, or living costs. Scholarships are typically **merit-based**, **need-based**, or awarded for specific talents, achievements, or backgrounds. Unlike loans, scholarships **do not need to be repaid**.
 
 ---
-
-## Why Do College Students Apply for Scholarships?
-
-* To **reduce financial burden** and make education more affordable.
-* To **recognize and reward academic excellence, skills, or talents**.
-* To gain access to **exclusive opportunities** such as internships, mentorships, and networking.
-* To **boost their resume** by showing recognition from reputable organizations.
-
----
-
 ## What is Financial Aid?
 
 **Financial aid** includes scholarships but also covers other types of monetary help such as:
