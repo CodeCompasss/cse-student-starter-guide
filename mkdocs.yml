@@ -5,6 +5,9 @@ repo_url: https://github.com/shadil-rayyan/cse-student-starter-guide
 
 theme:
   name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
     - navigation.instant
     - navigation.tracking
@@ -13,6 +16,60 @@ theme:
 
   logo: assets/logo.png
   favicon: assets/logo.png
+nav:
+  - Home: index.md
+  - Core:                    # Start with fundamentals first
+      - Programming Language: core/programming_language.md
+      - Git & GitHub: 
+          - Git: core/git.md
+          - GitHub: core/github.md
+      - Linux: core/linux.md
+      - Typing: core/typing.md
+      - Productivity: core/productivity.md
+      - Games: core/game.md
+  - Daily Reading:           # Encourage daily learning habits
+      - Engineering Blogs: daily-reading/enginerring-blog.md
+      - Newsletter: daily-reading/newsletter.md
+      - Substack: daily-reading/substack.md
+  - Domain:                  # Explore different CS domains
+      - Android: domain/android.md
+      - Web Development: domain/web-dev.md
+      - UI/UX: domain/ui-ux.md
+      - Game Development: domain/game-development.md
+      - Artificial Intelligence: domain/artificial-intelligence.md
+      - Data Science: domain/data-science.md
+      - Blockchain: domain/blockchain.md
+      - Cyber Security: domain/cyber-security.md
+      - DevOps: domain/devops.md
+      - Embedded Systems: domain/Embedded System.md
+      - AR & XR: domain/Ar &Xr.md
+      - Robotics: domain/robotics.md
+      - QA: domain/QA.md
+  - College:                 # Academic guidance
+      - Syllabus: college/syllabus.md
+      - Hackathon: college/hackathon.md
+      - Placement: college/placement.md
+      - Scholarship: college/scholarship.md
+      - Identity Card: college/identity-card.md
+      - Seniors: college/seniors.md
+      - Harsh Reality: college/harsh-reality.md
+  - Jobs:                    # Career prep
+      - Resume: job/resume.md
+      - Portfolio Website: job/portfolio-website.md
+  - Open Source:             # Community and collaboration
+      - What is Open Source?: open-source/what_open_source.md
+      - Programs: open-source/program.md
+  - Social Media:            # Networking & communities
+      - LinkedIn: social-media/linkedln.md
+      - Discord: social-media/discord.md
+      - Reddit: social-media/reddit.md
+      - Slack: social-media/slack.md
+      - WhatsApp Channel: social-media/whatsapp-channel.md
+      - YouTube: social-media/youtube.md
+  - Resources: resources.md  # Extra materials
+  - Cheat Sheets: cheatsheet.md
+  - FAQ: faq.md
+  - Contributing: contributing.md
 
 plugins:
   - search
