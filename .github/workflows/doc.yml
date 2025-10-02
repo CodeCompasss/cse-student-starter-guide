@@ -1,0 +1,66 @@
+name: Docs
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/dev' }}
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - dev
+
+permissions:
+  contents: read
+  packages: write
+  pages: write
+  id-token: write
+
+jobs:
+  Deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v4
+
+ 
+
+      # 3. Setup Python
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # 4. Generate Docs (inline MkDocs build)
+      - name: Generate Docs
+        run: |
+          set -ex
+          python3 -m venv venv
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install mkdocs mkdocs-material mkdocs-redirects \
+                      mkdocs-minify-plugin mkdocs-awesome-pages-plugin \
+                      mkdocs-macros-plugin mkdocs-codeinclude-plugin 
+          mkdocs build --clean
+          deactivate
+
+      # 4. Configure GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      # 5. Upload Pages Artifact
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './site'
+
+      # 6. Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
