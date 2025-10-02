@@ -68,7 +68,6 @@ nav:
       - YouTube: social-media/youtube.md
   - Resources: resources.md  # Extra materials
   - Cheat Sheets: cheatsheet.md
-  - FAQ: faq.md
   - Contributing: contributing.md
 
 plugins:
