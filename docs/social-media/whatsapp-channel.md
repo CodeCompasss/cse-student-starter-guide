@@ -1,25 +1,26 @@
-# 📣 WhatsApp Channels 
+# 📱 WhatsApp & Telegram Channels
+### "Stay Updated on the Go"
 
-WhatsApp Channels are a simple, low-friction way to receive **push updates** from people and organizations you trust — like internship portals, hackathon organisers, scholarship pages (Buddy4Study), or influencers such as Arsh Goyal — without the noise of group chats. If you want the latest internship/hackathon/scholarship alerts in one place, channels can be super handy.
+These platforms are best for **push notifications** (News, Job Alerts) rather than deep discussions.
 
-### ✅ Why join a WhatsApp Channel for opportunities?
+---
 
-* **Instant updates** — organisers post deadlines, registration links, results, and reminders.
-* **Less noise than groups** — channels are one-way (announcer → subscribers), so no dozens of replies.
-* **Easy to act** — you get links and brief action items you can follow immediately.
-* **Curated info** — follow only trusted channels (official college cells, well-known portals, verified mentors).
+## ✅ How to use them effectively
 
-### 🎯 What you’ll typically get
+### 1. Job & Internship Alerts
+*   Join groups that specifically post **Off-Campus Drive** links.
+*   **Highly Recommended:** **Arsh Goyal** (Top voice for freshers; posts daily updates on off-campus drives, hiring challenges, and internship openings).
+*   **Telegram:** Look for channels like "Fresher Jobs India" or "OffCampusJobs".
 
-* Internship openings and application tips
-* Hackathon announcements, schedules, themes, team calls
-* Scholarship deadlines, eligibility notes (e.g., Buddy4Study-style posts)
-* Short how-to threads, docs, application portals, and quick reminders
+### 2. Tech News Feeds
+*   Telegram is great for following channels that post daily tech summaries (e.g., TechCrunch, The Verge feeds).
 
+### 3. College Class Groups
+*   (Obviously) Stay in your official class group for deadlines.
 
+---
 
-
-### ⚠️ Quick disclaimer
-
-Channels are a great shortcut for updates, but **always verify** application details on official websites (college portals, Buddy4Study, company career pages). Channels help you discover opportunities — you still need to apply carefully.
-
+## ⚠️ The "Noise" Problem
+WhatsApp groups for "coding" often turn into spam.
+*   **Rule:** If a group has >200 messages a day and none of them are code, **Mute** or **Leave**.
+*   **Don't share code screenshots on WhatsApp.** It is unreadable. Use a pastebin link or Discord.
