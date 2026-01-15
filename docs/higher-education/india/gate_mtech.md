@@ -9,6 +9,11 @@ If you missed IIT in your undergraduate, M.Tech is your redemption arc. It is th
 **Graduate Aptitude Test in Engineering (GATE)** is the only exam that matters.
 *   **Ranking:** You need a rank under **AIR 500** for Top 7 IITs.
 *   **Stipend:** The Govt gives you ₹12,400/month if you qualify GATE.
+*   **Resources:**
+    *   **Go Classes:** Excellent for deep conceptual clarity.
+    *   **Made Easy / ACE:** Standard coaching for practice.
+    *   **Applied GATE (Gate Applied Course):** Good for CSE specifics.
+    *   **Standard Books:** Rosen (Discrete Math), Galvin (OS), Cormen (Algo).
 
 ---
 
@@ -17,9 +22,10 @@ If you missed IIT in your undergraduate, M.Tech is your redemption arc. It is th
     *   **Placements:** 20 - 30 LPA average.
     *   **Focus:** Core research, High-end Systems Engineering.
 2.  **IIIT Hyderabad:**
-    *   **Exam:** They have their own exam (PGEE).
-    *   **Reality:** Their coding culture is better than most IITs.
-3.  **ISI Kolkata:** Best for Data Science/Math.
+    *   **Exam:** They have their own exam (PGEE). **Do not miss this.**
+    *   **Reality:** Their coding culture is synonymous with "Google".
+3.  **ISI Kolkata:** Best for Data Science/Math stats.
+4.  **BITS Pilani:** (Higher Diploma/M.E). Uses their own exam (BITS HD) or GATE. High fees but good ROI.
 
 ---
 
