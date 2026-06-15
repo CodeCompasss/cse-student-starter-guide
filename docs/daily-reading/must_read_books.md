@@ -36,9 +36,3 @@ Videos expire. Documentation changes. But these books deal with first principles
 *   **Why:** It explains how databases *actually* work (B-Trees, SSTables, Replication, Sharding).
 *   **Warning:** It is dense. Read one chapter a month.
 
----
-
-## 🏃‍♀️ How to Read Technical Books
-*   **Don't aim to finish.** Use them as reference.
-*   **Read the Code.** Don't skip the code blocks. Type them out.
-*   **Buy the Paper version.** It is easier to flip back and forth than a PDF.

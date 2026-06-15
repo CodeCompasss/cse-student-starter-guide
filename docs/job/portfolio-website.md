@@ -31,8 +31,7 @@ If you are a backend dev and hate CSS.
 *   **About Me:** A short, fun bio. "I love coffee and debugging."
 *   **Tech Stack:** Use icons (React logo, Python logo).
 
-### 3. The Projects (Critical)
-Only list your **Top 3** projects.
+### 3. The Projects (
 *   **Thumbnail:** A screenshot of the app.
 *   **Title & Description:** Short explainer.
 *   **Links:** **Code** (GitHub) and **Live Demo** (Website Link).

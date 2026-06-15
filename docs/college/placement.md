@@ -40,16 +40,7 @@ Placements usually happen in two main ways:
 * **Top Companies May Not Visit:** FAANG and other global giants often don’t conduct campus drives everywhere.
 * **If You’re Not in the Top Ranks:** The “top performers” usually get the majority of good offers.
 
----
 
-## Why Top Companies Sometimes Don’t Come to Your Campus
-
-* They prefer candidates from specific colleges or those who apply directly online.
-* They often look for specialized skills, internships, or proven project experience.
-* They rely on online assessments, referrals, or hackathons to find talent globally.
-* Campus drives may not scale well for their hiring volumes.
-
----
 
 ## How to Get Placed (Campus or Off-Campus)
 

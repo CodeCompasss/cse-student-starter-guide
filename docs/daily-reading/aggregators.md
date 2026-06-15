@@ -24,9 +24,4 @@ If you want to know news *before* it hits mainstream media, you go to aggregator
 *   **What it is:** A browser extension that replaces your new tab with tech news.
 *   **Best for:** Passive consumption. If you are lazy, install this.
 
----
 
-## ⚠️ Warning: The "Doomscrolling" Trap
-It is easy to spend 3 hours reading Hacker News and feel like you worked. **You didn't.**
-*   **Rule:** Max 15 minutes per day.
-*   Check top stories in the morning, then close the tab.

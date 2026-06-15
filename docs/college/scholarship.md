@@ -24,14 +24,7 @@ Financial aid is designed to help students who may not have the resources to pay
 * Early scholarship recipients often get additional benefits like mentorship and leadership training.
 * Performing well in the first year can open doors to more scholarships later.
 
----
 
-## Why Are Most Scholarships Available to First-Year Students?
-
-* Colleges and companies want to **invest in students at the start** of their educational journey.
-* It’s easier to evaluate students based on high school performance during admission.
-* Scholarships encourage **students to enroll and commit** to their programs.
-* Once enrolled, students can often apply for departmental or merit-based scholarships later.
 
 ---
 

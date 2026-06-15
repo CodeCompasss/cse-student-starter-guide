@@ -37,7 +37,3 @@ Don't just pick "CSE". In M.Tech, you specialize.
 
 ---
 
-## ⚠️ Myths vs Reality
-*   **Myth:** "M.Tech is for people who didn't get a job."
-*   **Reality:** M.Tech is for people who want to skip the "Service Based Company" trap and jump straight to Product roles.
-*   **Warning:** It is academic. You will write a thesis. If you hate studying, do not join.

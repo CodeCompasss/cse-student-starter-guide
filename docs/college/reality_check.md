@@ -30,5 +30,3 @@ Unfortunately, most colleges don’t cover these in detail. That means if you wa
 
 ---
 
-👉 **In short:** College gives you the base, but **your future in CSE depends on how much you learn on your own**. Don’t just wait for the syllabus—explore, build, and grow.
-

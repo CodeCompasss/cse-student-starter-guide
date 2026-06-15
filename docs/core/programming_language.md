@@ -31,7 +31,5 @@ It’s not just about writing code—it’s about understanding how to **use it 
 4. **Learn OOP & Clean Coding** – Essential for big projects.
 5. **Move to Other Languages** – After Python, try **Java (for OOP), C++ (for performance), or JavaScript (for web)**.
 
----
 
-👉 **In short:** A programming language is your tool to talk to computers. Start with Python, master it (syntax, libraries, clean code, OOP), then expand to other languages. The goal is not just knowing many languages but being able to **solve problems effectively**.
 

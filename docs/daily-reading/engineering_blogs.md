@@ -35,10 +35,3 @@ You cannot work at Netflix (yet). But you can read exactly how they solved their
 *   **Focus:** Internet security, How the web works (DNS/HTTP).
 *   **Why Read:** To understand the "pipes" of the internet.
 
----
-
-## 🧠 How to Read These (Don't Panic)
-
-1.  **You won't understand 50% of it.** That is normal.
-2.  **Look for the "Why".** Don't focus on the code snippets. Focus on *why* they had a problem and *how* they decided to fix it.
-3.  **Google the unknown words.** If they say "We used Kafka for backpressure", and you don't know Kafka, Google "What is Kafka". That is how you learn.

@@ -29,4 +29,3 @@ Since ESE is closed for CS, look at these:
 4.  **STQC / NIELIT:** Technical roles in Govt IT bodies.
 5.  **Bank IT Officer (IBPS SO):** Manage bank servers/databases.
 
-> **Bottom Line:** If you want Power -> UPSC IAS. If you want Tech + Govt -> ISRO/NIC.
